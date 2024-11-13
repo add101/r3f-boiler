@@ -4,7 +4,7 @@ Boilerplate for building 3D applications using **React Three Fiber** with **Vite
 ### React Three Fiber Documentation: [R3F](https://r3f.docs.pmnd.rs/getting-started/introduction)
 
  
-## Live Preview : [link](https://r3f-boilerplate.netlify.app/)
+# Live Preview : [link](https://r3f-boilerplate.netlify.app/)
 
 ## Technologies Used
 
