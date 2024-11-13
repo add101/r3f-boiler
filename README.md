@@ -1,6 +1,6 @@
 # React Three Fiber Starter Template
 
-A starter template (boilerplate) for building 3D applications using **React Three Fiber** with **Vite** for a fast development environment. This setup includes **@react-three/drei** for helpful utilities and `vite` for a streamlined build process, allowing you to jump right into creating immersive 3D experiences in React. 
+Boilerplate for building 3D applications using **React Three Fiber** with **Vite** for a fast development environment. This setup includes **@react-three/drei** for helpful utilities and `vite` for a streamlined build process, allowing you to jump right into creating immersive 3D experiences in React. 
 ### React Three Fiber Documentation: [R3F](https://r3f.docs.pmnd.rs/getting-started/introduction)
 
  
